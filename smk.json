@@ -76,7 +76,40 @@
 					"gambar_url":"",
 					"desc":"coba-coba",
 					"fasilitas":"Tidak ada keterangan"
-				}
+				},
+				
+				{
+					"id":8,
+					"nama":"SMK Mardikenya",
+					"alamat":"Jl. Mardikenya No.4-6, Brubahan, Kranji, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53116",
+					"nomor_telp":"+62281636802",
+					"kordinat":"-7.4239681,109.2365528",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":9,
+					"nama":"SMK Tujuh Lima - 1 Purwokerto",
+					"alamat":"Jl. Margantara, Tanjung, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53143",
+					"nomor_telp":"+62281636802",
+					"kordinat":"-7.4377898,109.218137",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":10,
+					"nama":"SMK Wiworotomo Purwokerto",
+					"alamat":"Jl. Yos Sudarso No.3, Kalibogor, Rejasari, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53134",
+					"nomor_telp":"+62281638387",
+					"kordinat":"-7.4218791,109.2111316",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
 				
 				
 				
