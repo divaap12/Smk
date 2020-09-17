@@ -21,6 +21,61 @@
 					"gambar_url":"https://smkn1purwokerto.sch.id/wp-content/uploads/2020/04/MG_3836_3-scaled.jpg",
 					"desc":"coba-coba",
 					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":3,
+					"nama":"SMK NEGERI 3 PURWOKERTO",
+					"alamat":"Jl. A. Yani No.70, Karanganjing, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53116",
+					"nomor_telp":"+62281637847",
+					"kordinat":"-7.4135069,109.2314219",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":4,
+					"nama":"SMK Swagaya 1 Purwokerto",
+					"alamat":"Jalan Overste Isdiman No. 54/IX, Purwokerto Lor, Purwokerto Timur, Kebondalem, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53114",
+					"nomor_telp":"+62281637850",
+					"kordinat":"-7.4220926,109.2433701",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":5,
+					"nama":"SMK Kesatrian Purwokerto",
+					"alamat":"Jl. Ksatrian No.62, Karangjengkol, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+62281636122",
+					"kordinat":"-7.4189508,109.2365891",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":6,
+					"nama":"SMK Swagaya 2 Purwokerto",
+					"alamat":"JL. Prof. Mr. Much Yamin, No. 11, Purwokerto, Karangpucung, Kec. Banyumas, Kabupaten Banyumas, Jawa Tengah 53142",
+					"nomor_telp":"+622816845010",
+					"kordinat":"-7.4448403,109.2370512",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
+				},
+				
+				{
+					"id":7,
+					"nama":"SMK Telkom Purwokerto",
+					"alamat":"Jl. DI Panjaitan No.128, Karangreja, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"+62281632138",
+					"kordinat":"-7.435262,109.2495552",
+					"gambar_url":"",
+					"desc":"coba-coba",
+					"fasilitas":"Tidak ada keterangan"
 				}
 				
 				
